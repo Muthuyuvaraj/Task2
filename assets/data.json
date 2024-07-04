@@ -1,0 +1,14 @@
+[
+    { "name": "Muthu", "age": 28, "city": "Ramnad" },
+    { "name": "Kasim", "age": 22, "city": "Rameshwaram" },
+    { "name": "Suresh", "age": 32, "city": "Covai" },
+    { "name": "Jinesh", "age": 24, "city": "Bangalore" },
+    { "name": "Azfar", "age": 30, "city": "Madurai" },
+    { "name": "Mani", "age": 29, "city": "Vellore" },
+    { "name": "Sree", "age": 27, "city": "Madurai" },
+    { "name": "Swetha", "age": 26, "city": "Chennai" },
+    { "name": "Gokial", "age": 31, "city": "Thiruvallur" },
+    { "name": "Priyanka", "age": 23, "city": "Tiruppur" }
+]
+
+
